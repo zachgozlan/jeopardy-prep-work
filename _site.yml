@@ -1,5 +1,5 @@
 name: "jeop-prep1"
-output_dir: "docs"
+output_dir: "docs2"
 output:
 html_document:
 theme: cosmo
