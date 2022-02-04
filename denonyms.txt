@@ -1,0 +1,1971 @@
+Afghan
+                   count
+question_modified       
+kabul                  9
+khyber pass            8
+pakistan               6
+Albanian
+                   count
+question_modified       
+kosovo                 5
+American
+                      count
+question_modified          
+brazil                   65
+mexico                   27
+chile                    24
+canada                   20
+venezuela                20
+john paul jones          20
+colombia                 20
+argentina                20
+belize                   17
+andes                    15
+mary cassatt             15
+costa rica               15
+rhea                     14
+panama                   14
+rio de janeiro           13
+nicaragua                13
+guatemala                13
+benjamin franklin        13
+clara barton             13
+incas                    13
+amazon                   13
+kwanzaa                  12
+sally ride               11
+suriname                 11
+mark twain               11
+anaconda                 11
+chicago                  11
+buenos aires             11
+benedict arnold          11
+el salvador              10
+im pei                   10
+thomas paine             10
+ernest hemingway         10
+roots                     9
+pocahontas                9
+niagara falls             9
+marquis de lafayette      9
+honduras                  9
+kelly clarkson            9
+philadelphia              9
+paraguay                  9
+peru                      9
+cherokee                  9
+buffalo                   9
+simon bolivar             8
+powwow                    8
+american samoa            8
+washington dc             8
+lima                      8
+edgar allan poe           8
+teddy roosevelt           8
+llama                     8
+cuba                      8
+alan shepard              8
+paris                     8
+liberia                   8
+lacrosse                  8
+navajo                    7
+lake nicaragua            7
+margaret mead             7
+maria callas              7
+theodore roosevelt        7
+marian anderson           7
+helen hayes               7
+kevin spacey              7
+apple pie                 7
+douglas macarthur         7
+george wallace            7
+susan b anthony           7
+mayans                    7
+george washington         7
+gertrude stein            7
+thanksgiving              7
+mexico city               7
+jasper johns              7
+grant wood                7
+guyana                    6
+carrie underwood          6
+mckinley                  6
+apache                    6
+toronto                   6
+mary  cassatt             6
+colin powell              6
+greg lemond               6
+brasilia                  6
+thurgood marshall         6
+france                    6
+alexander calder          6
+piranha                   6
+eagle                     6
+lafayette                 6
+noah webster              6
+philip roth               6
+pago pago                 6
+van cliburn               6
+detroit                   6
+bison                     6
+bolivia                   6
+george iii                6
+george gershwin           6
+john glenn                6
+arthur ashe               6
+pt barnum                 6
+oklahoma                  6
+boston red sox            5
+richard wright            5
+alexander  calder         5
+alvin ailey               5
+mars                      5
+angel falls               5
+albert einstein           5
+charles lindbergh         5
+china                     5
+french indian war         5
+french guiana             5
+geronimo                  5
+grandma moses             5
+malcolm x                 5
+spain                     5
+florida                   5
+pemmican                  5
+red cross                 5
+civil war                 5
+lake titicaca             5
+robin                     5
+vietnam                   5
+ts eliot                  5
+philippines               5
+bunker hill               5
+betsy ross                5
+statue liberty            5
+wounded knee              5
+thomas jefferson          5
+henry james               5
+john singer sargent       5
+harlem                    5
+jackson pollock           5
+eugene oneill             5
+opossum                   5
+theodore dreiser          5
+august wilson             5
+tomahawk                  5
+iran                      5
+new york                  5
+mathew brady              5
+toni morrison             5
+sinclair lewis            5
+Antarctic
+                   count
+question_modified       
+penguin                8
+penguins               7
+Argentine
+                   count
+question_modified       
+buenos aires          10
+eva peron              5
+pampas                 5
+gauchos                5
+Australian
+                    count
+question_modified        
+tasmania               21
+sydney                 11
+queensland              8
+canberra                7
+rupert murdoch          7
+aborigines              6
+sydney opera house      6
+emu                     6
+eucalyptus              6
+kookaburra              6
+new south wales         5
+dingo                   5
+melbourne               5
+Austrian
+                       count
+question_modified           
+vienna                    20
+mozart                    10
+innsbruck                  8
+hapsburgs                  7
+maria theresa              6
+haydn                      5
+salzburg                   5
+maximilian                 5
+arnold schwarzenegger      5
+Belgian
+                   count
+question_modified       
+brussels              16
+antwerp               12
+rene magritte          9
+father damien          6
+ghent                  5
+waterloo               5
+endive                 5
+hercule  poirot        5
+rené magritte          5
+Brazilian
+                   count
+question_modified       
+rio de janeiro         8
+são paulo              7
+British
+                      count
+question_modified          
+margaret thatcher        27
+winston churchill        21
+victoria                 19
+bermuda                  18
+vancouver                18
+hong kong                18
+churchill                18
+gibraltar                17
+cambridge                16
+queen victoria           14
+oxford                   14
+boston massacre          13
+benedict arnold          12
+henry moore              12
+florence nightingale     11
+canada                   11
+bertrand russell         10
+liverpool                10
+cornwallis               10
+lusitania                10
+belize                   10
+lord nelson               9
+yorktown                  9
+trafalgar                 9
+sherlock holmes           9
+nathan hale               9
+london                    8
+war 1812                  8
+agatha christie           7
+victoria cross            7
+prince charles            7
+thames                    7
+john paul jones           7
+shilling                  7
+rudyard kipling           7
+cook                      7
+peter lawford             7
+tower london              7
+falklands                 7
+newton                    7
+ireland                   7
+sir francis drake         6
+cadbury                   6
+crimean war               6
+lloyd s london            6
+wellington                6
+lord byron                6
+the full monty            6
+charles dickens           6
+edward vii                6
+queen anne                6
+black hole calcutta       6
+tank                      6
+tea                       6
+virginia woolf            6
+calcutta                  6
+ethan allen               6
+henry viii                6
+montgomery                6
+bismarck                  6
+doctor who                5
+salisbury                 5
+tiger woods               5
+stephen hawking           5
+channel islands           5
+cricket                   5
+vancouver island          5
+stonehenge                5
+south africa              5
+farthing                  5
+lady astor                5
+tory                      5
+punch                     5
+george washington         5
+oliver hazard perry       5
+francis marion            5
+george iii                5
+battle new orleans        5
+guyana                    5
+tudor                     5
+torvill dean              5
+st helena                 5
+boer war                  5
+concorde                  5
+nelson                    5
+tony blair                5
+fort mchenry              5
+prince william            5
+hessians                  5
+captain cook              5
+wedgwood                  5
+wimbledon                 5
+philadelphia              5
+Bulgarian
+                   count
+question_modified       
+sofia                  9
+christo                7
+Cambodian
+                   count
+question_modified       
+pol pot                5
+Canadian
+                      count
+question_modified          
+quebec                   30
+british columbia         28
+ontario                  26
+newfoundland             23
+toronto                  19
+alberta                  19
+nova scotia              17
+prince edward island     14
+montreal                 13
+manitoba                 12
+yukon                    11
+quebec city               9
+calgary                   9
+niagara falls             8
+vancouver                 8
+new brunswick             7
+hudson bay                6
+margaret atwood           6
+justin bieber             6
+saskatchewan              6
+avril lavigne             6
+pierre trudeau            5
+winnipeg                  5
+drake                     5
+great slave lake          5
+Chilean
+                   count
+question_modified       
+easter island         13
+isabel allende         8
+pablo neruda           7
+atacama                6
+santiago               6
+Chinese
+                   count
+question_modified       
+confucius             29
+mandarin              20
+jade                  11
+ming                  11
+mao tsetung           10
+acupuncture           10
+im pei                10
+yangtze                9
+shanghai               9
+silk                   8
+canton                 8
+oolong                 8
+hong kong              8
+junk                   7
+amy tan                7
+mulan                  7
+charlie chan           7
+feng shui              7
+tai chi                6
+cilantro               6
+beijing                6
+tibet                  6
+cantonese              6
+taoism                 5
+compass                5
+tiananmen square       5
+manchuria              5
+dalai lama             5
+chiang kaishek         5
+wok                    5
+wontons                5
+
+Colombian
+                        count
+question_modified            
+juan valdez                 6
+gabriel garcia marquez      5
+
+Cook Island
+                   count
+question_modified       
+new zealand            6
+Costa Rican
+                   count
+question_modified       
+san jose               7
+Cuban
+                   count
+question_modified       
+bay pigs              11
+fidel castro          10
+havana                 7
+Czech
+                     count
+question_modified         
+prague                  25
+vaclav havel            14
+bohemia                  8
+martina navratilova      8
+dvorak                   6
+bedrich smetana          6
+václav havel             6
+elbe                     5
+slovakia                 5
+Danish
+                         count
+question_modified             
+copenhagen                  22
+greenland                   17
+hans christian andersen     12
+niels bohr                   9
+jutland                      9
+tycho brahe                  8
+isak dinesen                 5
+faroe islands                5
+elsinore                     5
+Dutch
+                   count
+question_modified       
+rembrandt             24
+amsterdam             17
+suriname              16
+gouda                 14
+the hague             12
+rotterdam             11
+indonesia             11
+erasmus               10
+jakarta                8
+vincent van gogh       8
+delft                  8
+abel  tasman           8
+afrikaans              7
+william orange         7
+piet mondrian          7
+klm                    7
+wilhelmina             6
+heineken               6
+cape horn              6
+van gogh               6
+cruller                6
+orange                 5
+beatrix                5
+abel tasman            5
+anne frank             5
+ronald reagan          5
+cape good hope         5
+Ecuadorian
+                   count
+question_modified       
+galápagos              5
+Egyptian
+                   count
+question_modified       
+alexandria            22
+isis                  20
+cleopatra             18
+cairo                 16
+osiris                14
+ra                    11
+papyrus               10
+nefertiti              9
+anwar sadat            6
+hieroglyphics          6
+aida                   6
+sphinx                 6
+asp                    6
+lake nasser            6
+ptolemy                5
+nile                   5
+memphis                5
+ibis                   5
+king tut               5
+English
+                   count
+question_modified       
+henry viii            14
+beowulf               13
+virginia dare         12
+jamestown             12
+sir francis drake     11
+canterbury            10
+charles i             10
+oxford                 9
+john keats             8
+french                 8
+hundred years war      8
+joan arc               7
+henry v                7
+john locke             6
+elizabeth i            6
+plymouth               6
+robert bruce           6
+henry                  6
+pocahontas             6
+gertrude ederle        6
+walnut                 6
+magna carta            5
+chaucer                5
+stonehenge             5
+john smith             5
+samuel johnson         5
+charles ii             5
+oboe                   5
+eggs benedict          5
+henry moore            5
+sir isaac newton       5
+juliette binoche       5
+cucumber               5
+pygmalion              5
+king john              5
+wales                  5
+trifle                 5
+lord byron             5
+samuel pepys           5
+Ethiopian
+                   count
+question_modified       
+haile selassie         8
+addis ababa            7
+aida                   6
+
+Finnish
+                   count
+question_modified       
+helsinki              14
+sibelius               7
+
+French
+                       count
+question_modified           
+napoleon                  28
+marie antoinette          18
+joan arc                  18
+pasteur                   18
+louis xiv                 18
+huguenots                 18
+charles de gaulle         16
+lafayette                 16
+avignon                   16
+voltaire                  15
+julia child               14
+devil s island            14
+cannes                    14
+new orleans               13
+sarah bernhardt           12
+paris                     12
+victor hugo               12
+belgium                   11
+louis xvi                 11
+quebec                    11
+dien bien phu             11
+de gaulle                 11
+tahiti                    10
+nice                      10
+corsica                   10
+marquis de lafayette      10
+bastille day              10
+molière                    9
+baguette                   9
+rodin                      9
+switzerland                9
+champagne                  9
+louis pasteur              9
+cordon bleu                8
+dreyfus                    8
+brigitte bardot            8
+guillotine                 8
+normandy                   8
+xyz affair                 8
+haiti                      8
+chopin                     8
+hundred years war          8
+algeria                    8
+rene descartes             7
+auguste rodin              7
+martinique                 7
+la salle                   7
+tarragon                   7
+frederic chopin            7
+creole                     7
+versailles                 7
+monet                      7
+jeanpaul sartre            7
+george sand                7
+albert camus               7
+louvre                     7
+monaco                     7
+jacques cartier            7
+brie                       7
+pascal                     7
+lake geneva                7
+agincourt                  7
+femme fatale               7
+nostradamus                7
+vietnam                    6
+samuel de champlain        6
+charles  de gaulle         6
+charles perrault           6
+napoleon bonaparte         6
+grand prix                 6
+vichyssoise                6
+cayenne                    6
+riviera                    6
+filet mignon               6
+croissant                  6
+faux pas                   6
+jeanjacques rousseau       6
+madagascar                 6
+toulouselautrec            6
+quebec city                6
+george washington          6
+christian dior             6
+loupe                      6
+bastille                   6
+chevalier                  6
+dijon                      6
+limoges                    6
+a tale two cities          6
+jeanpaul  sartre           6
+the three musketeers       6
+dauphin                    6
+bordeaux                   6
+laissezfaire               6
+evian                      6
+mirage                     6
+minuet                     6
+perrier                    5
+leotard                    5
+peugeot                    5
+ambulance                  5
+dunkirk                    5
+salon                      5
+jacques  cartier           5
+fleurdelis                 5
+greenpeace                 5
+escargot                   5
+detente                    5
+henri rousseau             5
+bouffant                   5
+dressage                   5
+jacques chirac             5
+coco  chanel               5
+henri matisse              5
+etiquette                  5
+collage                    5
+lorraine                   5
+pierre                     5
+michelin                   5
+colette                    5
+roquefort                  5
+coq au vin                 5
+decoupage                  5
+mousse                     5
+samuel beckett             5
+catherine deneuve          5
+louis                      5
+rené descartes             5
+marquis de sade            5
+marquis de  lafayette      5
+adieu                      5
+portauprince               5
+georges clemenceau         5
+reign terror               5
+souffle                    5
+jules verne                5
+marat                      5
+potpourri                  5
+camouflage                 5
+jeanluc godard             5
+louis vuitton              5
+louisiana                  5
+ratatouille                5
+double entendre            5
+french guiana              5
+luge                       5
+louis daguerre             5
+robespierre                5
+etude                      5
+richelieu                  5
+bay biscay                 5
+legion honor               5
+quadrille                  5
+chignon                    5
+mademoiselle               5
+suez canal                 5
+calais                     5
+cardinal richelieu         5
+mata hari                  5
+German
+                         count
+question_modified             
+rhine                       29
+berlin                      27
+bismarck                    26
+hamburg                     23
+bavaria                     22
+prussia                     21
+black forest                18
+bonn                        14
+goethe                      14
+lusitania                   14
+cologne                     14
+belgium                     14
+switzerland                 13
+austria                     13
+autobahn                    13
+wernher von braun           12
+steffi graf                 12
+luxembourg                  12
+kaiser                      12
+zeppelin                    12
+helmut kohl                 12
+nietzsche                   11
+poland                      11
+martin luther               10
+lufthansa                   10
+handel                      10
+volkswagen                  10
+hessians                    10
+bauhaus                      9
+gesundheit                   9
+hanseatic league             9
+beethoven                    9
+battle bulge                 9
+thomas mann                  9
+france                       9
+einstein                     8
+denmark                      8
+munich                       8
+johannes  kepler             8
+hans holbein                 8
+sauerkraut                   8
+blitzkrieg                   7
+albert einstein              7
+all quiet western front      7
+gestalt                      7
+wagner                       7
+glockenspiel                 7
+luftwaffe                    7
+heisenberg                   7
+das boot                     7
+red baron                    7
+rin tin tin                  7
+oktoberfest                  7
+umlaut                       6
+north sea                    6
+maginot line                 6
+richard wagner               6
+johann sebastian bach        6
+doppelganger                 6
+yiddish                      6
+zwieback                     6
+karl marx                    6
+alsacelorraine               6
+johannes kepler              6
+hermann hesse                6
+hitler                       6
+dresden                      6
+bayer                        6
+potsdam                      6
+katarina witt                6
+adolf hitler                 6
+nuremberg                    6
+holy roman empire            6
+rubella                      6
+stalingrad                   6
+heidelberg                   6
+wernher  von braun           6
+faust                        6
+namibia                      6
+ersatz                       6
+submarine                    5
+angst                        5
+petri dish                   5
+hindenburg                   5
+germany                      5
+charlemagne                  5
+badenbaden                   5
+potato salad                 5
+nosferatu                    5
+otto von bismarck            5
+doberman pinscher            5
+sturm und drang              5
+lederhosen                   5
+rommel                       5
+world war i                  5
+alexandra                    5
+berlin wall                  5
+marlene dietrich             5
+soviet union                 5
+max schmeling                5
+gutenberg                    5
+konrad adenauer              5
+willy brandt                 5
+strudel                      5
+Gibraltar
+                   count
+question_modified       
+morocco                7
+Greek
+                   count
+question_modified       
+aristotle             30
+poseidon              26
+aphrodite             21
+crete                 20
+zeus                  19
+cyprus                17
+athens                16
+ares                  16
+athena                15
+euclid                15
+hippocrates           15
+socrates              14
+sparta                13
+achilles              13
+iris                  12
+feta                  12
+apollo                12
+hermes                12
+homer                 11
+omega                 11
+herodotus             10
+plato                 10
+delta                 10
+pi                    10
+archimedes            10
+venus de milo          9
+iota                   9
+corinthian             9
+nike                   9
+troy                   9
+maria callas           9
+demeter                9
+epsilon                9
+plutarch               9
+zeta                   9
+phi beta kappa         8
+trojan horse           8
+hoi polloi             8
+dionysus               8
+alpha                  8
+rhodes                 8
+eros                   8
+artemis                7
+aesop                  7
+hephaestus             7
+oedipus                7
+rhinoceros             7
+alexander great        7
+phyllo                 7
+hades                  7
+corinth                6
+mount olympus          6
+graphite               6
+chorus                 6
+yogurt                 6
+lambda                 6
+calisthenics           6
+uranus                 6
+pandora                6
+etymology              6
+alpha omega            6
+sappho                 6
+helios                 6
+cyclops                6
+styx                   6
+earth                  6
+fates                  6
+drachma                6
+ouzo                   6
+moussaka               5
+thermopylae            5
+thebes                 5
+troilus cressida       5
+thesaurus              5
+amethyst               5
+aristophanes           5
+spinach                5
+eureka                 5
+marathon               5
+mars                   5
+ambrosia               5
+amnesia                5
+amoeba                 5
+chaos                  5
+agamemnon              5
+hercules               5
+hedonism               5
+protagonist            5
+schizophrenia          5
+ptolemy                5
+calligraphy            5
+naples                 5
+phalanx                5
+galen                  5
+xi                     5
+nicosia                5
+nemesis                5
+chimera                5
+pan                    5
+olympics               5
+Greenland
+                   count
+question_modified       
+erik red              10
+denmark               10
+Haitian
+                   count
+question_modified       
+voodoo                 9
+portauprince           7
+Hellenic
+                   count
+question_modified       
+greece                 6
+Hong Kong
+                   count
+question_modified       
+cantonese              6
+victoria               6
+jackie chan            5
+Hungarian
+                   count
+question_modified       
+franz liszt           17
+paprika               16
+budapest              11
+liszt                 10
+zsa zsa gabor          7
+bela bartok            5
+danube                 5
+béla bartók            5
+rubik s cube           5
+goulash                5
+Icelandic
+                   count
+question_modified       
+reykjavik              9
+bjork                  6
+Indian
+                        count
+question_modified            
+pocahontas                 17
+oklahoma                   16
+dan quayle                 12
+curry                      11
+madagascar                 10
+notre dame                 10
+navajo                     10
+south bend                 10
+cherokee                   10
+wounded knee                9
+buffalo                     9
+sri lanka                   9
+larry bird                  9
+wabash                      9
+mahatma gandhi              8
+purdue                      8
+incas                       8
+sioux                       8
+crazy horse                 7
+rhinoceros                  7
+fort wayne                  7
+indira gandhi               6
+squanto                     6
+new mexico                  6
+sacajawea                   6
+gary                        6
+tomahawk                    6
+mayans                      6
+abraham lincoln             6
+seminoles                   6
+black hawk                  6
+calcutta                    6
+lacrosse                    5
+pueblo                      5
+indianapolis                5
+pontiac                     5
+boston tea party            5
+ohio                        5
+nehru                       5
+bloomington                 5
+tippecanoe                  5
+gandhi                      5
+black hawk war              5
+illinois                    5
+william henry harrison      5
+Indonesian
+                   count
+question_modified       
+java                  11
+bali                  11
+komodo dragon          8
+krakatoa               6
+sumatra                5
+Iranian
+                   count
+question_modified       
+tehran                 5
+Iraqi
+                   count
+question_modified       
+saddam hussein         6
+kuwait                 5
+Irish
+                       count
+question_modified           
+william butler yeats      18
+oscar wilde               16
+dublin                    14
+james joyce               13
+william butler  yeats     12
+leprechaun                10
+waterford                  9
+jonathan swift             8
+limerick                   8
+u2                         8
+isle man                   8
+cork                       7
+gaelic                     7
+george bernard shaw        7
+guinness                   7
+shamrock                   7
+harp                       7
+tipperary                  6
+michael collins            6
+sean ocasey                6
+brogue                     6
+kim                        5
+shillelagh                 5
+james  joyce               5
+Israeli
+                   count
+question_modified       
+moses                  9
+manna                  8
+golda meir             7
+entebbe                6
+yitzhak rabin          6
+knesset                6
+philistines            5
+tel aviv               5
+moshe dayan            5
+itzhak perlman         5
+sinai                  5
+joshua                 5
+Israelite
+                   count
+question_modified       
+moses                  9
+manna                  8
+joshua                 5
+philistines            5
+Italian
+                    count
+question_modified        
+venice                 50
+galileo                37
+florence               24
+milan                  21
+sicily                 17
+mussolini              15
+sardinia               13
+petrarch               12
+naples                 11
+marco polo             10
+sacco vanzetti         10
+genoa                  10
+minestrone              9
+dante                   9
+po                      9
+bologna                 9
+modigliani              9
+zucchini                9
+andrea doria            8
+commedia dellarte       8
+verdi                   8
+terra cotta             8
+frittata                8
+tuscany                 8
+tiramisu                7
+fiat                    7
+cappella                7
+ferrari                 7
+switzerland             7
+machiavelli             7
+gucci                   7
+enrico fermi            7
+enrico  fermi           7
+marconi                 7
+bocce                   7
+garibaldi               6
+achille lauro           6
+al dente                6
+verrazano               6
+gnocchi                 6
+casanova                6
+risotto                 6
+leaning tower pisa      5
+prego                   5
+fresco                  5
+prada                   5
+focaccia                5
+pompeii                 5
+lamborghini             5
+polenta                 5
+pisa                    5
+arturo toscanini        5
+padua                   5
+broccoli                5
+calamari                5
+ethiopia                5
+ciao                    5
+rome                    5
+spumante                5
+rossini                 5
+rubicon                 5
+turin                   5
+michelangelo            5
+calzone                 5
+prima donna             5
+giuseppe verdi          5
+giuseppe garibaldi      5
+guglielmo marconi       5
+Jamaican
+                   count
+question_modified       
+kingston               7
+Japanese
+                   count
+question_modified       
+shinto                19
+mount fuji            11
+kabuki                11
+hirohito              11
+bonsai                11
+rice                  10
+tsunami                8
+honshu                 8
+sake                   8
+kimono                 7
+okinawa                7
+yakuza                 7
+shiatsu                7
+kyoto                  7
+fuji                   7
+sayonara               6
+hibachi                6
+sapporo                6
+origami                6
+mikado                 6
+wasabi                 6
+shogun                 6
+shintoism              6
+kendo                  6
+yen                    6
+honda                  5
+hiroshima              5
+geisha                 5
+futon                  5
+manga                  5
+haiku                  5
+madame butterfly       5
+akita                  5
+godzilla               5
+banzai                 5
+karaoke                5
+sumo wrestling         5
+sumo                   5
+Jersey
+                   count
+question_modified       
+princeton             33
+trenton               17
+rutgers               15
+atlantic city         13
+edison                12
+newark                10
+bill bradley           8
+thomas edison          8
+lillie langtry         7
+hoboken                7
+chris christie         6
+channel islands        6
+delaware               6
+bruce springsteen      5
+Kenyan
+                   count
+question_modified       
+nairobi               15
+Lao
+                   count
+question_modified       
+mekong                13
+taoism                 9
+Latvian
+                   count
+question_modified       
+riga                   6
+Lebanese
+                   count
+question_modified       
+beirut                 7
+Libyan
+                   count
+question_modified       
+tripoli                6
+Lithuanian
+                   count
+question_modified       
+vilnius                6
+Macedonian
+                   count
+question_modified       
+alexander great       31
+philip                 5
+Magyar
+                   count
+question_modified       
+hungary               20
+budapest               5
+Malagasy
+                   count
+question_modified       
+madagascar            15
+Malaysian
+                   count
+question_modified       
+kuala lumpur          12
+Mexican
+                   count
+question_modified       
+pancho villa          19
+santa anna            17
+cinco de mayo         11
+acapulco              11
+chihuahua             11
+frida kahlo            8
+alamo                  7
+taco bell              6
+corona                 6
+burrito                5
+tequila                5
+diego rivera           5
+chiapas                5
+san diego              5
+zachary taylor         5
+Mongolian
+                   count
+question_modified       
+gobi                   8
+
+Moroccan
+                   count
+question_modified       
+fez                    8
+casablanca             6
+
+Nepalese
+                   count
+question_modified       
+mount everest          5
+New Zealand
+                    count
+question_modified        
+kiwi                   31
+maori                  23
+auckland               12
+wellington             12
+southern cross          7
+kiwi fruit              6
+christchurch            6
+sir edmund hillary      6
+tasman sea              5
+maoris                  5
+Nicaraguan
+                   count
+question_modified       
+managua                7
+North Korean
+                   count
+question_modified       
+pyongyang              6
+
+Norwegian
+                   count
+question_modified       
+ibsen                 15
+henrik ibsen          13
+oslo                  10
+roald amundsen         9
+edvard grieg           8
+edvard  grieg          7
+lillehammer            6
+amundsen               5
+liv ullmann            5
+slalom                 5
+
+Panamanian
+                   count
+question_modified       
+manuel noriega         5
+Persian
+                      count
+question_modified          
+bahrain                  18
+xerxes                   10
+alexander great          10
+iran                      9
+darius                    8
+marathon                  7
+omar khayyam              7
+zoroastrianism            6
+kuwait                    6
+peach                     5
+zoroaster                 5
+thermopylae               5
+united arab emirates      5
+Peruvian
+                   count
+question_modified       
+lima                   8
+Philippine
+                     count
+question_modified         
+manila                  11
+luzon                   10
+imelda marcos            7
+douglas macarthur        7
+ferdinand marcos         6
+corazon aquino           5
+spanishamerican war      5
+
+Polish
+                   count
+question_modified       
+chopin                20
+warsaw                15
+copernicus            13
+frederic chopin        9
+gdansk                 8
+lech walesa            7
+joseph conrad          7
+kielbasa               6
+casimir pulaski        6
+krakow                 5
+Portuguese
+                            count
+question_modified                
+magellan                       15
+vasco da gama                  14
+azores                         11
+lisbon                         11
+brazil                          9
+elizabeth barrett browning      9
+mozambique                      9
+angola                          9
+rio de janeiro                  8
+macao                           7
+ferdinand magellan              7
+fatima                          6
+prince henry navigator          6
+ukulele                         5
+madeira                         5
+marmalade                       5
+Puerto Rican
+                   count
+question_modified       
+san juan               7
+roberto clemente       5
+Romanian
+                   count
+question_modified       
+bucharest             10
+nadia comaneci         8
+Russian
+                   count
+question_modified       
+catherine great       29
+tchaikovsky           21
+peter great           19
+ivan terrible         16
+doctor zhivago        14
+mir                   14
+lenin                 14
+boris yeltsin         12
+siberia               12
+rasputin              12
+st petersburg         11
+tolstoy               11
+balalaika             10
+pushkin                9
+vodka                  9
+moscow                 9
+yeltsin                8
+stalingrad             8
+volga                  8
+ivan pavlov            8
+tumbleweed             8
+pavlov                 8
+rimskykorsakov         8
+anna pavlova           7
+nicholas ii            7
+anton chekhov          7
+chechnya               7
+vladimir nabokov       7
+romanovs               7
+lake baikal            6
+ivan                   6
+troika                 6
+sputnik                6
+borscht                6
+bolsheviks             6
+soyuz                  6
+samovar                6
+anastasia              6
+marc chagall           6
+alaska                 6
+war peace              6
+babushka               6
+potemkin               5
+alexander nevsky       5
+crime punishment       5
+alexander pushkin      5
+trotsky                5
+glasnost               5
+ruble                  5
+ivan  pavlov           5
+nijinsky               5
+red square             5
+ivan turgenev          5
+bolshoi                5
+leo tolstoy            5
+Saudi
+                   count
+question_modified       
+yemen                  7
+king faisal            7
+red sea                7
+mecca                  6
+saudi arabia           6
+bahrain                5
+Scottish
+                   count
+question_modified       
+edinburgh             32
+glasgow               16
+william wallace       11
+mary queen scots      11
+rob roy               10
+macbeth                9
+robert burns           9
+john knox              7
+loch ness              7
+kilt                   6
+brigadoon              6
+rabbie  burns          5
+balmoral               5
+adam smith             5
+scone                  5
+Serbian
+                   count
+question_modified       
+kosovo                 6
+Singapore
+                   count
+question_modified       
+malaysia               6
+Slovak
+                   count
+question_modified       
+bratislava            10
+Slovene
+                   count
+question_modified       
+yugoslavia             6
+Somali
+                   count
+question_modified       
+mogadishu             12
+South African
+                   count
+question_modified       
+johannesburg           8
+cape town              8
+nelson mandela         8
+gary player            7
+athol fugard           6
+boer war               6
+nadine gordimer        5
+South Korean
+                   count
+question_modified       
+seoul                  7
+Spanish
+                    count
+question_modified        
+canary islands         17
+barcelona              16
+el cid                 15
+seville                14
+pablo picasso          12
+picasso                11
+franco                 10
+don juan               10
+pamplona                9
+goya                    9
+cervantes               9
+don quixote             9
+philippines             8
+salvador dali           8
+madrid                  8
+bolero                  8
+spanish armada          7
+ferdinand isabella      7
+paella                  7
+guernica                7
+pueblo                  7
+tapas                   6
+gibraltar               6
+fandango                6
+juan carlos             6
+machete                 6
+flan                    6
+amistad                 6
+colorado                6
+sherry                  6
+isabella                6
+gazpacho                5
+santa fe                5
+pyrenees                5
+puerto rico             5
+castille                5
+amarillo                5
+toledo                  5
+florida                 5
+flamenco                5
+el dorado               5
+george dewey            5
+sir francis drake       5
+morocco                 5
+cuba                    5
+mustang                 5
+burrito                 5
+cortés                  5
+armada                  5
+mantilla                5
+manila bay              5
+Sudanese
+                   count
+question_modified       
+khartoum              12
+Svalbard
+                   count
+question_modified       
+norway                 6
+
+Swedish
+                    count
+question_modified        
+volvo                  10
+smorgasbord             9
+pippi longstocking      8
+jenny lind              8
+ingmar bergman          7
+ingrid bergman          6
+stockholm               5
+olof palme              5
+linnaeus                5
+rutabaga                5
+abba                    5
+Swiss
+                   count
+question_modified       
+geneva                23
+bern                  16
+zurich                15
+lake geneva           15
+william tell          12
+le corbusier          10
+carl jung              9
+heidi                  8
+st moritz              6
+nestlé                 6
+monte cristo           5
+chard                  5
+martina hingis         5
+Syrian
+                   count
+question_modified       
+damascus              15
+Taiwanese
+                   count
+question_modified       
+taipei                 5
+Tanzanian
+                   count
+question_modified       
+serengeti              6
+
+Thai
+                   count
+question_modified       
+bangkok               32
+cambodia               6
+buddhism               6
+malay peninsula        5
+mekong                 5
+laos                   5
+
+Turkish
+                   count
+question_modified       
+cyprus                13
+istanbul               9
+gallipoli              6
+ankara                 6
+ottoman empire         6
+kismet                 5
+Turkmen
+                   count
+question_modified       
+turkmenistan           6
+caspian sea            5
+U.S. Virgin Island
+                   count
+question_modified       
+st croix               7
+
+U.S.
+                                          count
+question_modified                              
+hawaii                                       67
+alaska                                       61
+puerto rico                                  52
+cuba                                         35
+california                                   34
+guam                                         32
+florida                                      31
+mexico                                       25
+japan                                        24
+canada                                       23
+new york                                     22
+philadelphia                                 22
+maine                                        22
+george washington                            22
+grenada                                      21
+chicago                                      21
+new york city                                19
+eisenhower                                   19
+philippines                                  19
+texas                                        18
+american samoa                               17
+massachusetts                                17
+pennsylvania                                 17
+thomas jefferson                             17
+pearl harbor                                 17
+north carolina                               15
+washington                                   15
+virgin islands                               15
+new orleans                                  15
+andrew jackson                               15
+jimmy carter                                 14
+china                                        14
+georgia                                      13
+theodore roosevelt                           13
+afghanistan                                  13
+abraham lincoln                              13
+john adams                                   13
+colorado                                     13
+iran                                         13
+okinawa                                      13
+san francisco                                12
+michigan                                     12
+louisiana purchase                           12
+in god we trust                              12
+spain                                        12
+new jersey                                   12
+mississippi                                  12
+richard nixon                                12
+civil war                                    12
+panama                                       11
+los angeles                                  11
+spanishamerican war                          11
+panama canal                                 11
+woodrow wilson                               11
+ohio                                         11
+george hw bush                               11
+chrysler                                     11
+maryland                                     11
+us virgin islands                            11
+arizona                                      11
+john glenn                                   11
+ronald reagan                                11
+gerald ford                                  10
+jp morgan                                    10
+cotton                                       10
+harvard                                      10
+skylab                                       10
+rhode island                                 10
+jefferson davis                              10
+louisiana                                    10
+minnesota                                    10
+constitution                                 10
+pittsburgh                                   10
+niagara falls                                10
+vietnam                                      10
+kentucky                                     10
+denver                                       10
+russia                                        9
+arkansas                                      9
+tiger woods                                   9
+john f kennedy                                9
+fort knox                                     9
+aircraft carrier                              9
+e pluribus unum                               9
+john jay                                      9
+iraq                                          9
+lincoln                                       9
+washington dc                                 9
+liberia                                       9
+william mary                                  9
+st louis                                      9
+nixon                                         9
+missouri                                      9
+ford                                          8
+marines                                       8
+aaron burr                                    8
+delaware                                      8
+jefferson                                     8
+midway                                        8
+nicaragua                                     8
+germany                                       8
+john quincy adams                             8
+3                                             8
+dred scott                                    8
+antarctica                                    8
+new hampshire                                 8
+48                                            8
+eagle                                         8
+soviet union                                  8
+helium                                        8
+13                                            8
+wyoming                                       8
+san diego                                     8
+rio grande                                    8
+monrovia                                      7
+idaho                                         7
+connecticut                                   7
+st croix                                      7
+tennessee                                     7
+uncle sam                                     7
+montana                                       7
+copper                                        7
+guantanamo bay                                7
+bald eagle                                    7
+census                                        7
+atlanta                                       7
+gemini                                        7
+lafayette                                     7
+dwight d eisenhower                           7
+labor day                                     7
+library congress                              7
+key west                                      7
+honda                                         7
+yellowstone                                   7
+league nations                                7
+wisconsin                                     7
+columbia                                      7
+miami                                         7
+united nations                                7
+nevada                                        7
+william jennings bryan                        7
+purple heart                                  7
+benjamin franklin                             7
+lake placid                                   7
+great salt lake                               7
+death valley                                  7
+huntsville                                    7
+seattle                                       7
+war 1812                                      7
+ireland                                       7
+25                                            7
+coast guard                                   7
+nebraska                                      6
+manuel noriega                                6
+teddy roosevelt                               6
+november                                      6
+atlantic city                                 6
+annapolis                                     6
+iceland                                       6
+jfk                                           6
+denmark                                       6
+fdr                                           6
+north korea                                   6
+georgetown                                    6
+south carolina                                6
+navajo                                        6
+somalia                                       6
+warren g harding                              6
+st augustine                                  6
+nickel                                        6
+france                                        6
+winston churchill                             6
+statue liberty                                6
+patton                                        6
+harry s truman                                6
+boston                                        6
+grant                                         6
+battleship                                    6
+marquis de lafayette                          6
+michelle kwan                                 6
+strom thurmond                                6
+grover cleveland                              6
+martha washington                             6
+memorial day                                  6
+green berets                                  6
+havana                                        6
+eleanor roosevelt                             6
+electoral college                             6
+lake michigan                                 6
+zachary taylor                                6
+old ironsides                                 6
+west point                                    6
+stars stripes                                 6
+andrew johnson                                6
+gold                                          6
+virginia                                      6
+ukraine                                       6
+6                                             6
+vietnam war                                   6
+john philip sousa                             6
+good neighbor policy                          6
+janet reno                                    6
+utah                                          6
+treasury                                      6
+ulysses s grant                               6
+john dos passos                               5
+elizabeth blackwell                           5
+lyndon johnson                                5
+berlin                                        5
+madeleine albright                            5
+bill bradley                                  5
+7                                             5
+boll weevil                                   5
+cherokee                                      5
+martin van buren                              5
+kansas                                        5
+nato  north atlantic treaty organization      5
+franklin d roosevelt                          5
+detroit                                       5
+dominican republic                            5
+alexander hamilton                            5
+colin powell                                  5
+haiti                                         5
+wernher von braun                             5
+james monroe                                  5
+james madison                                 5
+west virginia                                 5
+lady chatterley s lover                       5
+oregon                                        5
+golf                                          5
+susan b anthony                               5
+corn                                          5
+secretary state                               5
+bay pigs                                      5
+pancho villa                                  5
+congressional medal honor                     5
+peace corps                                   5
+submarine                                     5
+1980                                          5
+great britain                                 5
+santa fe                                      5
+wilson                                        5
+steel                                         5
+iowa                                          5
+agriculture                                   5
+colorado springs                              5
+greenland                                     5
+william henry harrison                        5
+las vegas                                     5
+lewis clark                                   5
+ellis island                                  5
+i want to hold your hand                      5
+francis scott key                             5
+cia                                           5
+walter reed                                   5
+october                                       5
+world war i                                   5
+serena williams                               5
+princeton                                     5
+benjamin harrison                             5
+hyman rickover                                5
+cigarettes                                    5
+prohibition                                   5
+dan quayle                                    5
+sally ride                                    5
+jeane kirkpatrick                             5
+gila monster                                  5
+herbert hoover                                5
+nuclear power                                 5
+Ugandan
+                   count
+question_modified       
+idi amin              12
+Ukrainian
+                   count
+question_modified       
+kiev                   7
+United Kingdom
+                   count
+question_modified       
+scotland               9
+wales                  8
+United States
+                   count
+question_modified       
+alaska                 5
+Uruguayan
+                   count
+question_modified       
+montevideo             7
+Vatican
+                   count
+question_modified       
+latin                  6
+swiss guard            5
+
+Venezuelan
+                   count
+question_modified       
+orinoco                9
+caracas                9
+lake maracaibo         6
+angel falls            5
+
+Vietnamese
+                   count
+question_modified       
+ho chi minh            6
+hanoi                  6
+
+Welsh
+                         count
+question_modified             
+dylan thomas                21
+cardiff                      8
+tom jones                    5
+how green was my valley      5
