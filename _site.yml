@@ -1,11 +1,11 @@
-name: "jeop-prep"
+name: "jeop-prep1"
 output_dir: "docs"
 navbar:
-  title: "jeop-prep"
+  title: "How I Got (Somewhat) Smart(er in Five Months)"
   left:
   - text: "Home"
    href: index.html
-  - text: "jeop"
+  - text: "#jeopardata"
    href: jeop-prep.html
 output:
   html_document:
