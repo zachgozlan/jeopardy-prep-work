@@ -1,12 +1,5 @@
 name: "jeop-prep1"
 output_dir: "docs"
-navbar:
-  title: "How I Got (Somewhat) Smart(er in Five Months)"
-  left:
-  - text: "Home"
-   href: index.html
-  - text: "#jeopardata"
-   href: jeop-prep.html
 output:
-  html_document:
- theme: cosmo
+html_document:
+theme: cosmo
