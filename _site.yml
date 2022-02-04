@@ -1,0 +1,12 @@
+name: "jeop-prep"
+output_dir: "docs"
+navbar:
+  title: "jeop-prep"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "jeop"
+   href: jeop-prep.html
+output:
+  html_document:
+ theme: cosmo
