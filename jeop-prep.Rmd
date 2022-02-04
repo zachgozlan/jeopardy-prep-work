@@ -289,7 +289,9 @@ I'd then pick the most important/biggest words off of this card and write them i
 <center>![](images/20220128_205034.jpg)</center>
 
 
+
 And then, at crunchtime, re-transcribed that list to Excel to get it all front-of-brain:
+
 
 
 <center>![<i>"I'll never forgive myself for getting the Vonnegut question wrong." - Me, to Mayim Bialik, between rounds</i>](images/pavlovs_lit.png)</center>
@@ -328,7 +330,7 @@ Do it. Everything you've heard is true.
 
 <h2>Progress & Improvement</h2>
 
-My goal was to get to an average of 40 questions right per episode, on the assumption that if I could swing that plus a 50% buzzer rate I'd have answered my "share" of the questions and have a decent-enough shot at winning.^[They didn't start releasing #jeopardata until about six weeks after my tape day wrapped; as you could probably guess, I would have <i>killed</i> for that information during this process.] I repeated the category quizzes about once a month/as needed to measure progress and check to see if I needed to re-prioritize topics, and of course I also watched the show religiously to see if I was really moving the needle.
+My goal was to get to an average of 40 questions right per episode, on the assumption that if I could swing that plus a 50% buzzer rate I'd have answered my "share" of the questions and have a decent-enough shot at winning. I repeated the category quizzes about once a month/as needed to measure progress and check to see if I needed to re-prioritize topics, and of course I also watched the show religiously to see if I was really moving the needle.
 
 By my own metrics: over the span of the five months I was measuring my progress, I got a little bit better in terms of my percentage right on my own self-assessments and the average of how I was doing watching the show. But my "floor" was definitely pushed upwards - I watched 74 episodes total in this span, and the back half had significantly fewer "bad" games than the front half.
 
@@ -397,9 +399,11 @@ Progress was slower than I expected. Two potential reasons why:
 1. If you imagine the entirety of Jeopardy! knowledge as a swimming pool, I was throwing in buckets every day to raise the water level. It's a lot of water, but man, it's a big pool.
 2. My expectations were based on nothing! I can't find numbers like this from anyone else, that's part of the reason I'm writing this. (Admittedly, I didn't look that hard) Maybe I did an awesome job studying and just was coming from too deep a hole. Maybe I did a terrible job studying and could've been way sharper come the big day. My main hope by providing this I'm giving a bit of perspective on a "reasonable" pace of improvement, or, to immediately get flooded on Twitter with articles just like this that I'm dumb for not finding. Win/win!
 
-<h2>So: What Happened?</h2>
+<h2>Results: What Happened?</h2>
 
-This all worked! Until it didn't. As I mentioned, my goal was to know 40 questions, win the buzzer half the time, and get 20 correct answers. I <a href="https://twitter.com/Jeopardy/status/1489584525462102018/photo/1" target="_blank">did that and more:</a> 26 successful buzzes on 40 attempts, and even with three wrong answers still had 23 correct on the day. I'm proud of that. I'm also proud that I banked a correct answer in eleven of the twelve categories. I woke up today to compliments about my handling of a book category - never in a million years would I have expected that. Those are my moral victories.
+This all worked! Kinda! Until it didn't.
+
+As I mentioned, my goal was to know 40 questions, win the buzzer half the time, and get 20 correct answers. I <a href="https://twitter.com/Jeopardy/status/1489584525462102018/photo/1" target="_blank">did that and more:</a> 26 successful buzzes on 40 attempts, and even with three wrong answers still had 23 correct on the day. I'm proud of that. I'm also proud that I banked a correct answer in eleven of the twelve categories. I woke up today to compliments about my handling of a book category - never in a million years would I have expected that. Those are my moral victories.
 
 Now, regarding <i>actual</i> victories... I got nothing.
 
@@ -418,6 +422,10 @@ I punted somewhat on studying both religion and fashion because that's what my a
 Bought a jacket.
 
 <center>![](images/welp.png)</center>
+
+<h2>A moderately quick note on #jeopardata, the new box scores, and my assumptions about my place in the trivia universe</h2>
+
+They didn't start releasing official #jeopardata box scores until about six weeks after my tape day wrapped; as you could probably guess, I would have <i>killed</i> for that information during this process. (Love that it started before my game, though, would've been wondering about those #s forever.) The assumptions up until now have been that most contestants know most of the questions, and thus most of the game is just a buzzer race. Based on the early numbers from the box scores, that seems untrue: most contestants thus far are buzzing in 30-40 times, with stronger competitors putting up 45-50. Because I only knew 60% of the material, and I thought that was weak for a regular contestant, I maxxed myself out on buzzer speed to ensure I would get in on the questions I knew. Had I had that information, I may have directed less energy to buzzer work. But, again, I don't think having it would have made much of a difference in how things played out - the pace at which I was picking up knowledge wasn't crazy fast, and I really don't think a few redirected hours of studying instead of buzzing would have made up the difference between me and Emma.
 
 
 <h2>Closing Thoughts</h2>
