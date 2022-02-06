@@ -1,7 +1,7 @@
 # jeopardy-prep-work
 Notes and notebooks I used to train to compete on Jeopardy!, which I did on February 3rd, 2022.
 
-See main write-up here: https://zachgozlan.github.io/jeopardy-prep-work/
+See main write-up here: https://zachgozlan.github.io/jeopardy-prep-work/ (I am aware the date of the writeup is off by a year. I'll probably fix it at some point.)
 
 Other files of note:
 **jeopardy_prep_for_public.ipynb**, containing much of the code used to generate flashcards, self-assessment tests, category clustering, etc.
