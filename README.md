@@ -9,4 +9,4 @@ Other files of note:
 
 If there's interest I'll upload a complete set of the "pavlovs" I created at a later date.
 
-Presentation I gave on this work available here: https://www.youtube.com/watch?v=ZU0hV2y5z_I&t=775s&pp=ygULemFjaCBnb3psYW4%3D
+Presentation I gave on this work available here: https://www.youtube.com/watch?v=ZU0hV2y5z_I
