@@ -8,3 +8,5 @@ Other files of note:
 **denonyms.txt**, a pull of correct jeopardy answers through 2020 whose clues contained nationality names, which, yeah, lucky me, I got that on my board
 
 If there's interest I'll upload a complete set of the "pavlovs" I created at a later date.
+
+Presentation I gave on this work available here: https://www.youtube.com/watch?v=ZU0hV2y5z_I&t=775s&pp=ygULemFjaCBnb3psYW4%3D
